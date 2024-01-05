@@ -27,5 +27,9 @@ Middleware Support: Mongoose supports middleware, enabling you to execute functi
 Step 1 : clone repo https://github.com/Ankit-gurjar/assignment/tree/b6981b29309999ec9b38d8f8f0819a786e078e39/speer
 Step 2 : open in VS code.
 Step 3 : npm install
+
 Step 4 : npm start
 Step 5 : using postman check the working of all api's
+
+# All Api's using postman
+<img width="1470" alt="Screenshot 2024-01-05 at 12 42 48 PM" src="https://github.com/Ankit-gurjar/assignment/assets/79972184/0edeea5a-1543-40c3-91f2-5089143622be">
